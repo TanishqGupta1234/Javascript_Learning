@@ -75,3 +75,48 @@ for (let index = 0; index < 5; index++) {
 // var is a function expression that defines a function named `walk`. When called, it logs the message "Tanishq is walking" to the console.
 // let is a block-scoped variable declaration that can be used to define variables within a specific block of code, such as within a function or loop. It allows for better control over variable scope and helps prevent issues related to variable hoisting.
 // const is a block-scoped variable declaration that defines a constant variable whose value cannot be reassigned. It is used to declare variables that should remain constant throughout the program, providing better code clarity and preventing accidental changes to important values.
+
+
+// var a = [10,20,3040]
+// console.log(a);
+// a.push(50)  
+// console.log(a);
+
+// a.forEach(function(element){})
+
+
+// var obj = {
+//     user: "Tanishq",
+//     age : 20,
+// }
+
+// var obj2 = {
+//     user: "Tanishq",
+//     age : 30
+// }
+
+// console.log(obj.age);
+
+
+// var user = {
+//     userName : "Tanishq",
+//     age : 69,
+//     greet : function () {
+//         console.log("Good morning");
+//     }
+
+// }
+
+// console.log(user);
+
+
+// var arr = [
+//     {name : "Tanishq", age : 20},
+//     {name : "Ishu", age : 30},
+//     {name : "Rishu", age : 40},
+// ]
+
+// console.log(arr);
+
+
+// DOM 
